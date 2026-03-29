@@ -1,0 +1,3 @@
+com.example.shreetaskmanager.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme

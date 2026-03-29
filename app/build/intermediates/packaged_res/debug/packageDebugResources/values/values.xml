@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accentColor">#c2e094</color>
+    <color name="backgroundColor">#1a2138</color>
+    <color name="black">#000000</color>
+    <color name="card_blue">#4fd0e1</color>
+    <color name="card_dark">#252d4a</color>
+    <color name="card_green">#c2e094</color>
+    <color name="card_purple">#ccb7e3</color>
+    <color name="primaryColor">#1a2138</color>
+    <color name="primaryDarkColor">#12182b</color>
+    <color name="textColor">#FFFFFF</color>
+    <color name="textSecondary">#94A3B8</color>
+    <color name="white">#FFFFFF</color>
+    <string name="app_name">Shree Task Manager</string>
+    <string name="default_web_client_id">YOUR_WEB_CLIENT_ID</string>
+    <string name="nav_analysis">Analysis</string>
+    <string name="nav_calendar">Calendar</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_tasks">Tasks</string>
+    <style name="CustomDialogTheme" parent="Theme.MaterialComponents.Dialog.Alert">
+        <item name="android:background">@color/primaryDarkColor</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:editTextColor">@color/white</item>
+        <item name="android:textColorHint">@color/textSecondary</item>
+    </style>
+    <style name="Theme.ShreeTaskManager" parent="Theme.MaterialComponents.NoActionBar">
+        <item name="colorPrimary">@color/primaryColor</item>
+        <item name="colorPrimaryDark">@color/primaryDarkColor</item>
+        <item name="colorAccent">@color/accentColor</item>
+        <item name="android:statusBarColor">@color/primaryDarkColor</item>
+        <item name="android:windowBackground">@color/backgroundColor</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:editTextColor">@color/white</item>
+        <item name="android:textColorHint">@color/textSecondary</item>
+
+        
+        <item name="android:dialogTheme">@style/CustomDialogTheme</item>
+        <item name="android:alertDialogTheme">@style/CustomDialogTheme</item>
+    </style>
+</resources>

@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "com.example.shreetaskmanager.app-merged_res-42:/drawable_ic_call.xml.flat",
+        "source": "com.example.shreetaskmanager.app-main-44:/drawable/ic_call.xml"
+    },
+    {
+        "merged": "com.example.shreetaskmanager.app-merged_res-42:/drawable_ic_anniversary.xml.flat",
+        "source": "com.example.shreetaskmanager.app-main-44:/drawable/ic_anniversary.xml"
+    },
+    {
+        "merged": "com.example.shreetaskmanager.app-merged_res-42:/drawable_ic_grocery.xml.flat",
+        "source": "com.example.shreetaskmanager.app-main-44:/drawable/ic_grocery.xml"
+    },
+    {
+        "merged": "com.example.shreetaskmanager.app-merged_res-42:/drawable_ic_meeting.xml.flat",
+        "source": "com.example.shreetaskmanager.app-main-44:/drawable/ic_meeting.xml"
+    },
+    {
+        "merged": "com.example.shreetaskmanager.app-merged_res-42:/drawable_ic_study.xml.flat",
+        "source": "com.example.shreetaskmanager.app-main-44:/drawable/ic_study.xml"
+    },
+    {
+        "merged": "com.example.shreetaskmanager.app-merged_res-42:/drawable_ic_task.xml.flat",
+        "source": "com.example.shreetaskmanager.app-main-44:/drawable/ic_task.xml"
+    },
+    {
+        "merged": "com.example.shreetaskmanager.app-merged_res-42:/layout_activity_main.xml.flat",
+        "source": "com.example.shreetaskmanager.app-main-44:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.shreetaskmanager.app-merged_res-42:/drawable_ic_personal.xml.flat",
+        "source": "com.example.shreetaskmanager.app-main-44:/drawable/ic_personal.xml"
+    },
+    {
+        "merged": "com.example.shreetaskmanager.app-merged_res-42:/drawable_ic_work.xml.flat",
+        "source": "com.example.shreetaskmanager.app-main-44:/drawable/ic_work.xml"
+    },
+    {
+        "merged": "com.example.shreetaskmanager.app-merged_res-42:/layout_item_task.xml.flat",
+        "source": "com.example.shreetaskmanager.app-main-44:/layout/item_task.xml"
+    },
+    {
+        "merged": "com.example.shreetaskmanager.app-merged_res-42:/drawable_ic_bill.xml.flat",
+        "source": "com.example.shreetaskmanager.app-main-44:/drawable/ic_bill.xml"
+    },
+    {
+        "merged": "com.example.shreetaskmanager.app-merged_res-42:/anim_item_fade_in.xml.flat",
+        "source": "com.example.shreetaskmanager.app-main-44:/anim/item_fade_in.xml"
+    },
+    {
+        "merged": "com.example.shreetaskmanager.app-merged_res-42:/drawable_ic_birthday.xml.flat",
+        "source": "com.example.shreetaskmanager.app-main-44:/drawable/ic_birthday.xml"
+    }
+]

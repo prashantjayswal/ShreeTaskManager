@@ -1,0 +1,21 @@
+- [x] Verify that the copilot-instructions.md file in the .github directory is created.
+- [x] Clarify Project Requirements
+  - Native Android (Kotlin) application with task and expense management.
+- [x] Scaffold the Project
+  - Manual Gradle/Kotlin project created with basic modules.
+- [x] Customize the Project
+  - Added `TaskManager` and `ExpenseManager` classes
+  - Created `MainActivity` and simple layout
+  - Integrated Room persistence, calendar view, reminder scheduling, Google Sign‑In/Drive permission flow and backup stubs, UI icons & animations
+  - Added task rescheduling with notes, expanded reminder types (including meeting, call, grocery, study, work, personal), due-date display, long-press editing, and corresponding icons
+- [x] Install Required Extensions
+  - No extensions required.
+- [x] Compile the Project
+  - No build performed; instructions provided to use Android Studio.
+- [ ] Create and Run Task
+  - Not applicable; project is opened in Android Studio.
+- [ ] Launch the Project
+  - User can run via Android Studio.
+- [x] Ensure Documentation is Complete
+  - README.md written with steps and structure.
+  - README updated with calendar, reminders, storage, backup, login and UI notes

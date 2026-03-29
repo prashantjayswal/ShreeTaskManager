@@ -1,0 +1,8 @@
+com.example.shreetaskmanager.test.app-jetified-tracing-1.2.0-0 C:\Users\Prime\.gradle\caches\9.2.1\transforms\99d00f9f8192ccc19d78ea0e279e4a81\workspace\transformed\jetified-tracing-1.2.0\res
+com.example.shreetaskmanager.test.app-jetified-annotation-experimental-1.5.0-1 C:\Users\Prime\.gradle\caches\9.2.1\transforms\9cd56ee32215026b3cb032d528eacf0d\workspace\transformed\jetified-annotation-experimental-1.5.0\res
+com.example.shreetaskmanager.test.app-jetified-core-1.5.0-2 C:\Users\Prime\.gradle\caches\9.2.1\transforms\a589746c7aa4b640cf4b4a113a4a04eb\workspace\transformed\jetified-core-1.5.0\res
+com.example.shreetaskmanager.test.app-androidTest-3 D:\App\ShreeTaskManager\app\build\generated\res\resValues\androidTest\debug
+com.example.shreetaskmanager.test.app-updated_navigation_xml-4 D:\App\ShreeTaskManager\app\build\generated\updated_navigation_xml\debugAndroidTest
+com.example.shreetaskmanager.test.app-mergeDebugAndroidTestResources-5 D:\App\ShreeTaskManager\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.shreetaskmanager.test.app-mergeDebugAndroidTestResources-6 D:\App\ShreeTaskManager\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.shreetaskmanager.test.app-debugAndroidTest-7 D:\App\ShreeTaskManager\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

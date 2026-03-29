@@ -1,0 +1,33 @@
+R_DEF: Internal format may change without notice
+local
+anim item_fade_in
+color accentColor
+color backgroundColor
+color primaryColor
+color primaryDarkColor
+color textColor
+drawable ic_anniversary
+drawable ic_bill
+drawable ic_birthday
+drawable ic_call
+drawable ic_grocery
+drawable ic_meeting
+drawable ic_personal
+drawable ic_study
+drawable ic_task
+drawable ic_work
+id buttonAdd
+id buttonBackup
+id buttonRestore
+id buttonSignIn
+id calendarView
+id checkCompleted
+id iconType
+id recyclerTasks
+id textSubtitle
+id textTitle
+id topButtons
+layout activity_main
+layout item_task
+string app_name
+style Theme.ShreeTaskManager

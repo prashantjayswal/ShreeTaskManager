@@ -1,0 +1,315 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.shreetaskmanager"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="26"
+9        android:targetSdkVersion="34" />
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->D:\App\ShreeTaskManager\app\src\main\AndroidManifest.xml:5:5-67
+11-->D:\App\ShreeTaskManager\app\src\main\AndroidManifest.xml:5:22-64
+12    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+12-->D:\App\ShreeTaskManager\app\src\main\AndroidManifest.xml:6:5-71
+12-->D:\App\ShreeTaskManager\app\src\main\AndroidManifest.xml:6:22-68
+13    <uses-permission android:name="android.permission.READ_CONTACTS" />
+13-->D:\App\ShreeTaskManager\app\src\main\AndroidManifest.xml:7:5-72
+13-->D:\App\ShreeTaskManager\app\src\main\AndroidManifest.xml:7:22-69
+14    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+14-->D:\App\ShreeTaskManager\app\src\main\AndroidManifest.xml:8:5-77
+14-->D:\App\ShreeTaskManager\app\src\main\AndroidManifest.xml:8:22-74
+15    <uses-permission android:name="android.permission.RECEIVE_SMS" />
+15-->D:\App\ShreeTaskManager\app\src\main\AndroidManifest.xml:9:5-70
+15-->D:\App\ShreeTaskManager\app\src\main\AndroidManifest.xml:9:22-67
+16    <uses-permission android:name="android.permission.READ_SMS" />
+16-->D:\App\ShreeTaskManager\app\src\main\AndroidManifest.xml:10:5-67
+16-->D:\App\ShreeTaskManager\app\src\main\AndroidManifest.xml:10:22-64
+17    <uses-permission android:name="android.permission.WAKE_LOCK" />
+17-->[androidx.work:work-runtime:2.11.1] C:\Users\Prime\.gradle\caches\9.2.1\transforms\d6a1bbf9b16070742f4ef23e9dcd70ef\workspace\transformed\work-runtime-2.11.1\AndroidManifest.xml:23:5-68
+17-->[androidx.work:work-runtime:2.11.1] C:\Users\Prime\.gradle\caches\9.2.1\transforms\d6a1bbf9b16070742f4ef23e9dcd70ef\workspace\transformed\work-runtime-2.11.1\AndroidManifest.xml:23:22-65
+18    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+18-->[androidx.work:work-runtime:2.11.1] C:\Users\Prime\.gradle\caches\9.2.1\transforms\d6a1bbf9b16070742f4ef23e9dcd70ef\workspace\transformed\work-runtime-2.11.1\AndroidManifest.xml:24:5-79
+18-->[androidx.work:work-runtime:2.11.1] C:\Users\Prime\.gradle\caches\9.2.1\transforms\d6a1bbf9b16070742f4ef23e9dcd70ef\workspace\transformed\work-runtime-2.11.1\AndroidManifest.xml:24:22-76
+19    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+19-->[androidx.work:work-runtime:2.11.1] C:\Users\Prime\.gradle\caches\9.2.1\transforms\d6a1bbf9b16070742f4ef23e9dcd70ef\workspace\transformed\work-runtime-2.11.1\AndroidManifest.xml:25:5-81
+19-->[androidx.work:work-runtime:2.11.1] C:\Users\Prime\.gradle\caches\9.2.1\transforms\d6a1bbf9b16070742f4ef23e9dcd70ef\workspace\transformed\work-runtime-2.11.1\AndroidManifest.xml:25:22-78
+20    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+20-->[androidx.work:work-runtime:2.11.1] C:\Users\Prime\.gradle\caches\9.2.1\transforms\d6a1bbf9b16070742f4ef23e9dcd70ef\workspace\transformed\work-runtime-2.11.1\AndroidManifest.xml:26:5-77
+20-->[androidx.work:work-runtime:2.11.1] C:\Users\Prime\.gradle\caches\9.2.1\transforms\d6a1bbf9b16070742f4ef23e9dcd70ef\workspace\transformed\work-runtime-2.11.1\AndroidManifest.xml:26:22-74
+21
+22    <permission
+22-->[androidx.core:core:1.17.0] C:\Users\Prime\.gradle\caches\9.2.1\transforms\72e16212ecc119fa00e34e7ee910fb9a\workspace\transformed\core-1.17.0\AndroidManifest.xml:22:5-24:47
+23        android:name="com.example.shreetaskmanager.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+23-->[androidx.core:core:1.17.0] C:\Users\Prime\.gradle\caches\9.2.1\transforms\72e16212ecc119fa00e34e7ee910fb9a\workspace\transformed\core-1.17.0\AndroidManifest.xml:23:9-81
+24        android:protectionLevel="signature" />
+24-->[androidx.core:core:1.17.0] C:\Users\Prime\.gradle\caches\9.2.1\transforms\72e16212ecc119fa00e34e7ee910fb9a\workspace\transformed\core-1.17.0\AndroidManifest.xml:24:9-44
+25
+26    <uses-permission android:name="com.example.shreetaskmanager.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+26-->[androidx.core:core:1.17.0] C:\Users\Prime\.gradle\caches\9.2.1\transforms\72e16212ecc119fa00e34e7ee910fb9a\workspace\transformed\core-1.17.0\AndroidManifest.xml:26:5-97
+26-->[androidx.core:core:1.17.0] C:\Users\Prime\.gradle\caches\9.2.1\transforms\72e16212ecc119fa00e34e7ee910fb9a\workspace\transformed\core-1.17.0\AndroidManifest.xml:26:22-94
+27
+28    <application
+28-->D:\App\ShreeTaskManager\app\src\main\AndroidManifest.xml:12:5-42:19
+29        android:allowBackup="true"
+29-->D:\App\ShreeTaskManager\app\src\main\AndroidManifest.xml:13:9-35
+30        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+30-->[androidx.core:core:1.17.0] C:\Users\Prime\.gradle\caches\9.2.1\transforms\72e16212ecc119fa00e34e7ee910fb9a\workspace\transformed\core-1.17.0\AndroidManifest.xml:28:18-86
+31        android:debuggable="true"
+32        android:extractNativeLibs="false"
+33        android:icon="@drawable/ic_launcher"
+33-->D:\App\ShreeTaskManager\app\src\main\AndroidManifest.xml:14:9-45
+34        android:label="@string/app_name"
+34-->D:\App\ShreeTaskManager\app\src\main\AndroidManifest.xml:16:9-41
+35        android:roundIcon="@drawable/ic_launcher"
+35-->D:\App\ShreeTaskManager\app\src\main\AndroidManifest.xml:15:9-50
+36        android:supportsRtl="true"
+36-->D:\App\ShreeTaskManager\app\src\main\AndroidManifest.xml:17:9-35
+37        android:theme="@style/Theme.ShreeTaskManager" >
+37-->D:\App\ShreeTaskManager\app\src\main\AndroidManifest.xml:18:9-54
+38        <receiver
+38-->D:\App\ShreeTaskManager\app\src\main\AndroidManifest.xml:20:9-27:20
+39            android:name="com.example.shreetaskmanager.SMSReceiver"
+39-->D:\App\ShreeTaskManager\app\src\main\AndroidManifest.xml:20:19-46
+40            android:exported="true"
+40-->D:\App\ShreeTaskManager\app\src\main\AndroidManifest.xml:22:13-36
+41            android:permission="android.permission.BROADCAST_SMS" >
+41-->D:\App\ShreeTaskManager\app\src\main\AndroidManifest.xml:21:13-66
+42            <intent-filter>
+42-->D:\App\ShreeTaskManager\app\src\main\AndroidManifest.xml:23:13-26:29
+43                <action android:name="android.intent.action.DATA_SMS_RECEIVED" />
+43-->D:\App\ShreeTaskManager\app\src\main\AndroidManifest.xml:24:17-82
+43-->D:\App\ShreeTaskManager\app\src\main\AndroidManifest.xml:24:25-79
+44                <action android:name="android.provider.Telephony.SMS_RECEIVED" />
+44-->D:\App\ShreeTaskManager\app\src\main\AndroidManifest.xml:25:17-82
+44-->D:\App\ShreeTaskManager\app\src\main\AndroidManifest.xml:25:25-79
+45            </intent-filter>
+46        </receiver>
+47
+48        <activity
+48-->D:\App\ShreeTaskManager\app\src\main\AndroidManifest.xml:29:9-36:20
+49            android:name="com.example.shreetaskmanager.HomeActivity"
+49-->D:\App\ShreeTaskManager\app\src\main\AndroidManifest.xml:30:13-41
+50            android:exported="true" >
+50-->D:\App\ShreeTaskManager\app\src\main\AndroidManifest.xml:31:13-36
+51            <intent-filter>
+51-->D:\App\ShreeTaskManager\app\src\main\AndroidManifest.xml:32:13-35:29
+52                <action android:name="android.intent.action.MAIN" />
+52-->D:\App\ShreeTaskManager\app\src\main\AndroidManifest.xml:33:17-69
+52-->D:\App\ShreeTaskManager\app\src\main\AndroidManifest.xml:33:25-66
+53
+54                <category android:name="android.intent.category.LAUNCHER" />
+54-->D:\App\ShreeTaskManager\app\src\main\AndroidManifest.xml:34:17-77
+54-->D:\App\ShreeTaskManager\app\src\main\AndroidManifest.xml:34:27-74
+55            </intent-filter>
+56        </activity>
+57        <activity android:name="com.example.shreetaskmanager.MainActivity" />
+57-->D:\App\ShreeTaskManager\app\src\main\AndroidManifest.xml:37:9-50
+57-->D:\App\ShreeTaskManager\app\src\main\AndroidManifest.xml:37:19-47
+58        <activity android:name="com.example.shreetaskmanager.AnalysisActivity" />
+58-->D:\App\ShreeTaskManager\app\src\main\AndroidManifest.xml:38:9-54
+58-->D:\App\ShreeTaskManager\app\src\main\AndroidManifest.xml:38:19-51
+59        <activity android:name="com.example.shreetaskmanager.AllTasksActivity" />
+59-->D:\App\ShreeTaskManager\app\src\main\AndroidManifest.xml:39:9-54
+59-->D:\App\ShreeTaskManager\app\src\main\AndroidManifest.xml:39:19-51
+60        <activity android:name="com.example.shreetaskmanager.TaskActionActivity" />
+60-->D:\App\ShreeTaskManager\app\src\main\AndroidManifest.xml:40:9-56
+60-->D:\App\ShreeTaskManager\app\src\main\AndroidManifest.xml:40:19-53
+61        <activity android:name="com.example.shreetaskmanager.TaskGraphActivity" />
+61-->D:\App\ShreeTaskManager\app\src\main\AndroidManifest.xml:41:9-55
+61-->D:\App\ShreeTaskManager\app\src\main\AndroidManifest.xml:41:19-52
+62        <activity
+62-->[com.google.android.gms:play-services-auth:21.5.1] C:\Users\Prime\.gradle\caches\9.2.1\transforms\e1d672d5e7249f40a1ae74d20a38e611\workspace\transformed\jetified-play-services-auth-21.5.1\AndroidManifest.xml:23:9-27:75
+63            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+63-->[com.google.android.gms:play-services-auth:21.5.1] C:\Users\Prime\.gradle\caches\9.2.1\transforms\e1d672d5e7249f40a1ae74d20a38e611\workspace\transformed\jetified-play-services-auth-21.5.1\AndroidManifest.xml:24:13-93
+64            android:excludeFromRecents="true"
+64-->[com.google.android.gms:play-services-auth:21.5.1] C:\Users\Prime\.gradle\caches\9.2.1\transforms\e1d672d5e7249f40a1ae74d20a38e611\workspace\transformed\jetified-play-services-auth-21.5.1\AndroidManifest.xml:25:13-46
+65            android:exported="false"
+65-->[com.google.android.gms:play-services-auth:21.5.1] C:\Users\Prime\.gradle\caches\9.2.1\transforms\e1d672d5e7249f40a1ae74d20a38e611\workspace\transformed\jetified-play-services-auth-21.5.1\AndroidManifest.xml:26:13-37
+66            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+66-->[com.google.android.gms:play-services-auth:21.5.1] C:\Users\Prime\.gradle\caches\9.2.1\transforms\e1d672d5e7249f40a1ae74d20a38e611\workspace\transformed\jetified-play-services-auth-21.5.1\AndroidManifest.xml:27:13-72
+67        <!--
+68            Service handling Google Sign-In user revocation. For apps that do not integrate with
+69            Google Sign-In, this service will never be started.
+70        -->
+71        <service
+71-->[com.google.android.gms:play-services-auth:21.5.1] C:\Users\Prime\.gradle\caches\9.2.1\transforms\e1d672d5e7249f40a1ae74d20a38e611\workspace\transformed\jetified-play-services-auth-21.5.1\AndroidManifest.xml:33:9-37:51
+72            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+72-->[com.google.android.gms:play-services-auth:21.5.1] C:\Users\Prime\.gradle\caches\9.2.1\transforms\e1d672d5e7249f40a1ae74d20a38e611\workspace\transformed\jetified-play-services-auth-21.5.1\AndroidManifest.xml:34:13-89
+73            android:exported="true"
+73-->[com.google.android.gms:play-services-auth:21.5.1] C:\Users\Prime\.gradle\caches\9.2.1\transforms\e1d672d5e7249f40a1ae74d20a38e611\workspace\transformed\jetified-play-services-auth-21.5.1\AndroidManifest.xml:35:13-36
+74            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION"
+74-->[com.google.android.gms:play-services-auth:21.5.1] C:\Users\Prime\.gradle\caches\9.2.1\transforms\e1d672d5e7249f40a1ae74d20a38e611\workspace\transformed\jetified-play-services-auth-21.5.1\AndroidManifest.xml:36:13-107
+75            android:visibleToInstantApps="true" />
+75-->[com.google.android.gms:play-services-auth:21.5.1] C:\Users\Prime\.gradle\caches\9.2.1\transforms\e1d672d5e7249f40a1ae74d20a38e611\workspace\transformed\jetified-play-services-auth-21.5.1\AndroidManifest.xml:37:13-48
+76
+77        <activity
+77-->[com.google.android.gms:play-services-base:18.5.0] C:\Users\Prime\.gradle\caches\9.2.1\transforms\f52e468feda3760c2df0b35b115982bb\workspace\transformed\jetified-play-services-base-18.5.0\AndroidManifest.xml:5:9-173
+78            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+78-->[com.google.android.gms:play-services-base:18.5.0] C:\Users\Prime\.gradle\caches\9.2.1\transforms\f52e468feda3760c2df0b35b115982bb\workspace\transformed\jetified-play-services-base-18.5.0\AndroidManifest.xml:5:19-85
+79            android:exported="false"
+79-->[com.google.android.gms:play-services-base:18.5.0] C:\Users\Prime\.gradle\caches\9.2.1\transforms\f52e468feda3760c2df0b35b115982bb\workspace\transformed\jetified-play-services-base-18.5.0\AndroidManifest.xml:5:146-170
+80            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+80-->[com.google.android.gms:play-services-base:18.5.0] C:\Users\Prime\.gradle\caches\9.2.1\transforms\f52e468feda3760c2df0b35b115982bb\workspace\transformed\jetified-play-services-base-18.5.0\AndroidManifest.xml:5:86-145
+81
+82        <provider
+82-->[androidx.work:work-runtime:2.11.1] C:\Users\Prime\.gradle\caches\9.2.1\transforms\d6a1bbf9b16070742f4ef23e9dcd70ef\workspace\transformed\work-runtime-2.11.1\AndroidManifest.xml:29:9-37:20
+83            android:name="androidx.startup.InitializationProvider"
+83-->[androidx.work:work-runtime:2.11.1] C:\Users\Prime\.gradle\caches\9.2.1\transforms\d6a1bbf9b16070742f4ef23e9dcd70ef\workspace\transformed\work-runtime-2.11.1\AndroidManifest.xml:30:13-67
+84            android:authorities="com.example.shreetaskmanager.androidx-startup"
+84-->[androidx.work:work-runtime:2.11.1] C:\Users\Prime\.gradle\caches\9.2.1\transforms\d6a1bbf9b16070742f4ef23e9dcd70ef\workspace\transformed\work-runtime-2.11.1\AndroidManifest.xml:31:13-68
+85            android:exported="false" >
+85-->[androidx.work:work-runtime:2.11.1] C:\Users\Prime\.gradle\caches\9.2.1\transforms\d6a1bbf9b16070742f4ef23e9dcd70ef\workspace\transformed\work-runtime-2.11.1\AndroidManifest.xml:32:13-37
+86            <meta-data
+86-->[androidx.work:work-runtime:2.11.1] C:\Users\Prime\.gradle\caches\9.2.1\transforms\d6a1bbf9b16070742f4ef23e9dcd70ef\workspace\transformed\work-runtime-2.11.1\AndroidManifest.xml:34:13-36:52
+87                android:name="androidx.work.WorkManagerInitializer"
+87-->[androidx.work:work-runtime:2.11.1] C:\Users\Prime\.gradle\caches\9.2.1\transforms\d6a1bbf9b16070742f4ef23e9dcd70ef\workspace\transformed\work-runtime-2.11.1\AndroidManifest.xml:35:17-68
+88                android:value="androidx.startup" />
+88-->[androidx.work:work-runtime:2.11.1] C:\Users\Prime\.gradle\caches\9.2.1\transforms\d6a1bbf9b16070742f4ef23e9dcd70ef\workspace\transformed\work-runtime-2.11.1\AndroidManifest.xml:36:17-49
+89            <meta-data
+89-->[androidx.emoji2:emoji2:1.3.0] C:\Users\Prime\.gradle\caches\9.2.1\transforms\736480978f48d397159bad8a55b905bc\workspace\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:29:13-31:52
+90                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+90-->[androidx.emoji2:emoji2:1.3.0] C:\Users\Prime\.gradle\caches\9.2.1\transforms\736480978f48d397159bad8a55b905bc\workspace\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:30:17-75
+91                android:value="androidx.startup" />
+91-->[androidx.emoji2:emoji2:1.3.0] C:\Users\Prime\.gradle\caches\9.2.1\transforms\736480978f48d397159bad8a55b905bc\workspace\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:31:17-49
+92            <meta-data
+92-->[androidx.lifecycle:lifecycle-process:2.10.0] C:\Users\Prime\.gradle\caches\9.2.1\transforms\e0201a331eafc59ea3703921056f5b60\workspace\transformed\jetified-lifecycle-process-2.10.0\AndroidManifest.xml:29:13-31:52
+93                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+93-->[androidx.lifecycle:lifecycle-process:2.10.0] C:\Users\Prime\.gradle\caches\9.2.1\transforms\e0201a331eafc59ea3703921056f5b60\workspace\transformed\jetified-lifecycle-process-2.10.0\AndroidManifest.xml:30:17-78
+94                android:value="androidx.startup" />
+94-->[androidx.lifecycle:lifecycle-process:2.10.0] C:\Users\Prime\.gradle\caches\9.2.1\transforms\e0201a331eafc59ea3703921056f5b60\workspace\transformed\jetified-lifecycle-process-2.10.0\AndroidManifest.xml:31:17-49
+95            <meta-data
+95-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Prime\.gradle\caches\9.2.1\transforms\f044afc4abf6cc70b2f9b9e078b3f8bf\workspace\transformed\jetified-profileinstaller-1.4.0\AndroidManifest.xml:29:13-31:52
+96                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+96-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Prime\.gradle\caches\9.2.1\transforms\f044afc4abf6cc70b2f9b9e078b3f8bf\workspace\transformed\jetified-profileinstaller-1.4.0\AndroidManifest.xml:30:17-85
+97                android:value="androidx.startup" />
+97-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Prime\.gradle\caches\9.2.1\transforms\f044afc4abf6cc70b2f9b9e078b3f8bf\workspace\transformed\jetified-profileinstaller-1.4.0\AndroidManifest.xml:31:17-49
+98        </provider>
+99
+100        <service
+100-->[androidx.work:work-runtime:2.11.1] C:\Users\Prime\.gradle\caches\9.2.1\transforms\d6a1bbf9b16070742f4ef23e9dcd70ef\workspace\transformed\work-runtime-2.11.1\AndroidManifest.xml:39:9-45:35
+101            android:name="androidx.work.impl.background.systemjob.SystemJobService"
+101-->[androidx.work:work-runtime:2.11.1] C:\Users\Prime\.gradle\caches\9.2.1\transforms\d6a1bbf9b16070742f4ef23e9dcd70ef\workspace\transformed\work-runtime-2.11.1\AndroidManifest.xml:40:13-84
+102            android:directBootAware="false"
+102-->[androidx.work:work-runtime:2.11.1] C:\Users\Prime\.gradle\caches\9.2.1\transforms\d6a1bbf9b16070742f4ef23e9dcd70ef\workspace\transformed\work-runtime-2.11.1\AndroidManifest.xml:41:13-44
+103            android:enabled="@bool/enable_system_job_service_default"
+103-->[androidx.work:work-runtime:2.11.1] C:\Users\Prime\.gradle\caches\9.2.1\transforms\d6a1bbf9b16070742f4ef23e9dcd70ef\workspace\transformed\work-runtime-2.11.1\AndroidManifest.xml:42:13-70
+104            android:exported="true"
+104-->[androidx.work:work-runtime:2.11.1] C:\Users\Prime\.gradle\caches\9.2.1\transforms\d6a1bbf9b16070742f4ef23e9dcd70ef\workspace\transformed\work-runtime-2.11.1\AndroidManifest.xml:43:13-36
+105            android:permission="android.permission.BIND_JOB_SERVICE" />
+105-->[androidx.work:work-runtime:2.11.1] C:\Users\Prime\.gradle\caches\9.2.1\transforms\d6a1bbf9b16070742f4ef23e9dcd70ef\workspace\transformed\work-runtime-2.11.1\AndroidManifest.xml:44:13-69
+106        <service
+106-->[androidx.work:work-runtime:2.11.1] C:\Users\Prime\.gradle\caches\9.2.1\transforms\d6a1bbf9b16070742f4ef23e9dcd70ef\workspace\transformed\work-runtime-2.11.1\AndroidManifest.xml:46:9-52:35
+107            android:name="androidx.work.impl.foreground.SystemForegroundService"
+107-->[androidx.work:work-runtime:2.11.1] C:\Users\Prime\.gradle\caches\9.2.1\transforms\d6a1bbf9b16070742f4ef23e9dcd70ef\workspace\transformed\work-runtime-2.11.1\AndroidManifest.xml:47:13-81
+108            android:directBootAware="false"
+108-->[androidx.work:work-runtime:2.11.1] C:\Users\Prime\.gradle\caches\9.2.1\transforms\d6a1bbf9b16070742f4ef23e9dcd70ef\workspace\transformed\work-runtime-2.11.1\AndroidManifest.xml:48:13-44
+109            android:enabled="@bool/enable_system_foreground_service_default"
+109-->[androidx.work:work-runtime:2.11.1] C:\Users\Prime\.gradle\caches\9.2.1\transforms\d6a1bbf9b16070742f4ef23e9dcd70ef\workspace\transformed\work-runtime-2.11.1\AndroidManifest.xml:49:13-77
+110            android:exported="false" />
+110-->[androidx.work:work-runtime:2.11.1] C:\Users\Prime\.gradle\caches\9.2.1\transforms\d6a1bbf9b16070742f4ef23e9dcd70ef\workspace\transformed\work-runtime-2.11.1\AndroidManifest.xml:50:13-37
+111
+112        <receiver
+112-->[androidx.work:work-runtime:2.11.1] C:\Users\Prime\.gradle\caches\9.2.1\transforms\d6a1bbf9b16070742f4ef23e9dcd70ef\workspace\transformed\work-runtime-2.11.1\AndroidManifest.xml:54:9-59:35
+113            android:name="androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver"
+113-->[androidx.work:work-runtime:2.11.1] C:\Users\Prime\.gradle\caches\9.2.1\transforms\d6a1bbf9b16070742f4ef23e9dcd70ef\workspace\transformed\work-runtime-2.11.1\AndroidManifest.xml:55:13-88
+114            android:directBootAware="false"
+114-->[androidx.work:work-runtime:2.11.1] C:\Users\Prime\.gradle\caches\9.2.1\transforms\d6a1bbf9b16070742f4ef23e9dcd70ef\workspace\transformed\work-runtime-2.11.1\AndroidManifest.xml:56:13-44
+115            android:enabled="true"
+115-->[androidx.work:work-runtime:2.11.1] C:\Users\Prime\.gradle\caches\9.2.1\transforms\d6a1bbf9b16070742f4ef23e9dcd70ef\workspace\transformed\work-runtime-2.11.1\AndroidManifest.xml:57:13-35
+116            android:exported="false" />
+116-->[androidx.work:work-runtime:2.11.1] C:\Users\Prime\.gradle\caches\9.2.1\transforms\d6a1bbf9b16070742f4ef23e9dcd70ef\workspace\transformed\work-runtime-2.11.1\AndroidManifest.xml:58:13-37
+117        <receiver
+117-->[androidx.work:work-runtime:2.11.1] C:\Users\Prime\.gradle\caches\9.2.1\transforms\d6a1bbf9b16070742f4ef23e9dcd70ef\workspace\transformed\work-runtime-2.11.1\AndroidManifest.xml:60:9-69:20
+118            android:name="androidx.work.impl.background.systemalarm.RescheduleReceiver"
+118-->[androidx.work:work-runtime:2.11.1] C:\Users\Prime\.gradle\caches\9.2.1\transforms\d6a1bbf9b16070742f4ef23e9dcd70ef\workspace\transformed\work-runtime-2.11.1\AndroidManifest.xml:61:13-88
+119            android:directBootAware="false"
+119-->[androidx.work:work-runtime:2.11.1] C:\Users\Prime\.gradle\caches\9.2.1\transforms\d6a1bbf9b16070742f4ef23e9dcd70ef\workspace\transformed\work-runtime-2.11.1\AndroidManifest.xml:62:13-44
+120            android:enabled="false"
+120-->[androidx.work:work-runtime:2.11.1] C:\Users\Prime\.gradle\caches\9.2.1\transforms\d6a1bbf9b16070742f4ef23e9dcd70ef\workspace\transformed\work-runtime-2.11.1\AndroidManifest.xml:63:13-36
+121            android:exported="false" >
+121-->[androidx.work:work-runtime:2.11.1] C:\Users\Prime\.gradle\caches\9.2.1\transforms\d6a1bbf9b16070742f4ef23e9dcd70ef\workspace\transformed\work-runtime-2.11.1\AndroidManifest.xml:64:13-37
+122            <intent-filter>
+122-->[androidx.work:work-runtime:2.11.1] C:\Users\Prime\.gradle\caches\9.2.1\transforms\d6a1bbf9b16070742f4ef23e9dcd70ef\workspace\transformed\work-runtime-2.11.1\AndroidManifest.xml:66:13-68:29
+123                <action android:name="android.intent.action.BOOT_COMPLETED" />
+123-->[androidx.work:work-runtime:2.11.1] C:\Users\Prime\.gradle\caches\9.2.1\transforms\d6a1bbf9b16070742f4ef23e9dcd70ef\workspace\transformed\work-runtime-2.11.1\AndroidManifest.xml:67:17-79
+123-->[androidx.work:work-runtime:2.11.1] C:\Users\Prime\.gradle\caches\9.2.1\transforms\d6a1bbf9b16070742f4ef23e9dcd70ef\workspace\transformed\work-runtime-2.11.1\AndroidManifest.xml:67:25-76
+124            </intent-filter>
+125        </receiver>
+126        <receiver
+126-->[androidx.work:work-runtime:2.11.1] C:\Users\Prime\.gradle\caches\9.2.1\transforms\d6a1bbf9b16070742f4ef23e9dcd70ef\workspace\transformed\work-runtime-2.11.1\AndroidManifest.xml:70:9-80:20
+127            android:name="androidx.work.impl.diagnostics.DiagnosticsReceiver"
+127-->[androidx.work:work-runtime:2.11.1] C:\Users\Prime\.gradle\caches\9.2.1\transforms\d6a1bbf9b16070742f4ef23e9dcd70ef\workspace\transformed\work-runtime-2.11.1\AndroidManifest.xml:71:13-78
+128            android:directBootAware="false"
+128-->[androidx.work:work-runtime:2.11.1] C:\Users\Prime\.gradle\caches\9.2.1\transforms\d6a1bbf9b16070742f4ef23e9dcd70ef\workspace\transformed\work-runtime-2.11.1\AndroidManifest.xml:72:13-44
+129            android:enabled="true"
+129-->[androidx.work:work-runtime:2.11.1] C:\Users\Prime\.gradle\caches\9.2.1\transforms\d6a1bbf9b16070742f4ef23e9dcd70ef\workspace\transformed\work-runtime-2.11.1\AndroidManifest.xml:73:13-35
+130            android:exported="true"
+130-->[androidx.work:work-runtime:2.11.1] C:\Users\Prime\.gradle\caches\9.2.1\transforms\d6a1bbf9b16070742f4ef23e9dcd70ef\workspace\transformed\work-runtime-2.11.1\AndroidManifest.xml:74:13-36
+131            android:permission="android.permission.DUMP" >
+131-->[androidx.work:work-runtime:2.11.1] C:\Users\Prime\.gradle\caches\9.2.1\transforms\d6a1bbf9b16070742f4ef23e9dcd70ef\workspace\transformed\work-runtime-2.11.1\AndroidManifest.xml:75:13-57
+132            <intent-filter>
+132-->[androidx.work:work-runtime:2.11.1] C:\Users\Prime\.gradle\caches\9.2.1\transforms\d6a1bbf9b16070742f4ef23e9dcd70ef\workspace\transformed\work-runtime-2.11.1\AndroidManifest.xml:77:13-79:29
+133                <action android:name="androidx.work.diagnostics.REQUEST_DIAGNOSTICS" />
+133-->[androidx.work:work-runtime:2.11.1] C:\Users\Prime\.gradle\caches\9.2.1\transforms\d6a1bbf9b16070742f4ef23e9dcd70ef\workspace\transformed\work-runtime-2.11.1\AndroidManifest.xml:78:17-88
+133-->[androidx.work:work-runtime:2.11.1] C:\Users\Prime\.gradle\caches\9.2.1\transforms\d6a1bbf9b16070742f4ef23e9dcd70ef\workspace\transformed\work-runtime-2.11.1\AndroidManifest.xml:78:25-85
+134            </intent-filter>
+135        </receiver>
+136
+137        <service
+137-->[androidx.room:room-runtime-android:2.8.4] C:\Users\Prime\.gradle\caches\9.2.1\transforms\c1d9886cc97b9ad2b1bcc611e4ea1375\workspace\transformed\jetified-room-runtime\AndroidManifest.xml:24:9-28:63
+138            android:name="androidx.room.MultiInstanceInvalidationService"
+138-->[androidx.room:room-runtime-android:2.8.4] C:\Users\Prime\.gradle\caches\9.2.1\transforms\c1d9886cc97b9ad2b1bcc611e4ea1375\workspace\transformed\jetified-room-runtime\AndroidManifest.xml:25:13-74
+139            android:directBootAware="true"
+139-->[androidx.room:room-runtime-android:2.8.4] C:\Users\Prime\.gradle\caches\9.2.1\transforms\c1d9886cc97b9ad2b1bcc611e4ea1375\workspace\transformed\jetified-room-runtime\AndroidManifest.xml:26:13-43
+140            android:exported="false" />
+140-->[androidx.room:room-runtime-android:2.8.4] C:\Users\Prime\.gradle\caches\9.2.1\transforms\c1d9886cc97b9ad2b1bcc611e4ea1375\workspace\transformed\jetified-room-runtime\AndroidManifest.xml:27:13-37
+141
+142        <meta-data
+142-->[com.google.android.gms:play-services-basement:18.9.0] C:\Users\Prime\.gradle\caches\9.2.1\transforms\c2e1c70076e6262aa4e1c11d7cc86a96\workspace\transformed\jetified-play-services-basement-18.9.0\AndroidManifest.xml:21:9-23:69
+143            android:name="com.google.android.gms.version"
+143-->[com.google.android.gms:play-services-basement:18.9.0] C:\Users\Prime\.gradle\caches\9.2.1\transforms\c2e1c70076e6262aa4e1c11d7cc86a96\workspace\transformed\jetified-play-services-basement-18.9.0\AndroidManifest.xml:22:13-58
+144            android:value="@integer/google_play_services_version" />
+144-->[com.google.android.gms:play-services-basement:18.9.0] C:\Users\Prime\.gradle\caches\9.2.1\transforms\c2e1c70076e6262aa4e1c11d7cc86a96\workspace\transformed\jetified-play-services-basement-18.9.0\AndroidManifest.xml:23:13-66
+145
+146        <receiver
+146-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Prime\.gradle\caches\9.2.1\transforms\f044afc4abf6cc70b2f9b9e078b3f8bf\workspace\transformed\jetified-profileinstaller-1.4.0\AndroidManifest.xml:34:9-52:20
+147            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+147-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Prime\.gradle\caches\9.2.1\transforms\f044afc4abf6cc70b2f9b9e078b3f8bf\workspace\transformed\jetified-profileinstaller-1.4.0\AndroidManifest.xml:35:13-76
+148            android:directBootAware="false"
+148-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Prime\.gradle\caches\9.2.1\transforms\f044afc4abf6cc70b2f9b9e078b3f8bf\workspace\transformed\jetified-profileinstaller-1.4.0\AndroidManifest.xml:36:13-44
+149            android:enabled="true"
+149-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Prime\.gradle\caches\9.2.1\transforms\f044afc4abf6cc70b2f9b9e078b3f8bf\workspace\transformed\jetified-profileinstaller-1.4.0\AndroidManifest.xml:37:13-35
+150            android:exported="true"
+150-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Prime\.gradle\caches\9.2.1\transforms\f044afc4abf6cc70b2f9b9e078b3f8bf\workspace\transformed\jetified-profileinstaller-1.4.0\AndroidManifest.xml:38:13-36
+151            android:permission="android.permission.DUMP" >
+151-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Prime\.gradle\caches\9.2.1\transforms\f044afc4abf6cc70b2f9b9e078b3f8bf\workspace\transformed\jetified-profileinstaller-1.4.0\AndroidManifest.xml:39:13-57
+152            <intent-filter>
+152-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Prime\.gradle\caches\9.2.1\transforms\f044afc4abf6cc70b2f9b9e078b3f8bf\workspace\transformed\jetified-profileinstaller-1.4.0\AndroidManifest.xml:40:13-42:29
+153                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+153-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Prime\.gradle\caches\9.2.1\transforms\f044afc4abf6cc70b2f9b9e078b3f8bf\workspace\transformed\jetified-profileinstaller-1.4.0\AndroidManifest.xml:41:17-91
+153-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Prime\.gradle\caches\9.2.1\transforms\f044afc4abf6cc70b2f9b9e078b3f8bf\workspace\transformed\jetified-profileinstaller-1.4.0\AndroidManifest.xml:41:25-88
+154            </intent-filter>
+155            <intent-filter>
+155-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Prime\.gradle\caches\9.2.1\transforms\f044afc4abf6cc70b2f9b9e078b3f8bf\workspace\transformed\jetified-profileinstaller-1.4.0\AndroidManifest.xml:43:13-45:29
+156                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+156-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Prime\.gradle\caches\9.2.1\transforms\f044afc4abf6cc70b2f9b9e078b3f8bf\workspace\transformed\jetified-profileinstaller-1.4.0\AndroidManifest.xml:44:17-85
+156-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Prime\.gradle\caches\9.2.1\transforms\f044afc4abf6cc70b2f9b9e078b3f8bf\workspace\transformed\jetified-profileinstaller-1.4.0\AndroidManifest.xml:44:25-82
+157            </intent-filter>
+158            <intent-filter>
+158-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Prime\.gradle\caches\9.2.1\transforms\f044afc4abf6cc70b2f9b9e078b3f8bf\workspace\transformed\jetified-profileinstaller-1.4.0\AndroidManifest.xml:46:13-48:29
+159                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+159-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Prime\.gradle\caches\9.2.1\transforms\f044afc4abf6cc70b2f9b9e078b3f8bf\workspace\transformed\jetified-profileinstaller-1.4.0\AndroidManifest.xml:47:17-88
+159-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Prime\.gradle\caches\9.2.1\transforms\f044afc4abf6cc70b2f9b9e078b3f8bf\workspace\transformed\jetified-profileinstaller-1.4.0\AndroidManifest.xml:47:25-85
+160            </intent-filter>
+161            <intent-filter>
+161-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Prime\.gradle\caches\9.2.1\transforms\f044afc4abf6cc70b2f9b9e078b3f8bf\workspace\transformed\jetified-profileinstaller-1.4.0\AndroidManifest.xml:49:13-51:29
+162                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+162-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Prime\.gradle\caches\9.2.1\transforms\f044afc4abf6cc70b2f9b9e078b3f8bf\workspace\transformed\jetified-profileinstaller-1.4.0\AndroidManifest.xml:50:17-95
+162-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Prime\.gradle\caches\9.2.1\transforms\f044afc4abf6cc70b2f9b9e078b3f8bf\workspace\transformed\jetified-profileinstaller-1.4.0\AndroidManifest.xml:50:25-92
+163            </intent-filter>
+164        </receiver>
+165    </application>
+166
+167</manifest>

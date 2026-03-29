@@ -1,0 +1,182 @@
+[
+    {
+        "merged": "C:\\Users\\Prime\\.gradle\\daemon\\9.2.1\\com.example.shreetaskmanager.app-debug-43:\\drawable_ic_bill.xml.flat",
+        "source": "C:\\Users\\Prime\\.gradle\\daemon\\9.2.1\\com.example.shreetaskmanager.app-main-45:\\drawable\\ic_bill.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prime\\.gradle\\daemon\\9.2.1\\com.example.shreetaskmanager.app-debug-43:\\drawable_ic_work.xml.flat",
+        "source": "C:\\Users\\Prime\\.gradle\\daemon\\9.2.1\\com.example.shreetaskmanager.app-main-45:\\drawable\\ic_work.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prime\\.gradle\\daemon\\9.2.1\\com.example.shreetaskmanager.app-debug-43:\\layout_activity_analysis.xml.flat",
+        "source": "C:\\Users\\Prime\\.gradle\\daemon\\9.2.1\\com.example.shreetaskmanager.app-main-45:\\layout\\activity_analysis.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prime\\.gradle\\daemon\\9.2.1\\com.example.shreetaskmanager.app-debug-43:\\layout_activity_task_graph.xml.flat",
+        "source": "C:\\Users\\Prime\\.gradle\\daemon\\9.2.1\\com.example.shreetaskmanager.app-main-45:\\layout\\activity_task_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prime\\.gradle\\daemon\\9.2.1\\com.example.shreetaskmanager.app-debug-43:\\drawable_bg_task_card_green.xml.flat",
+        "source": "C:\\Users\\Prime\\.gradle\\daemon\\9.2.1\\com.example.shreetaskmanager.app-main-45:\\drawable\\bg_task_card_green.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prime\\.gradle\\daemon\\9.2.1\\com.example.shreetaskmanager.app-debug-43:\\drawable_ic_task.xml.flat",
+        "source": "C:\\Users\\Prime\\.gradle\\daemon\\9.2.1\\com.example.shreetaskmanager.app-main-45:\\drawable\\ic_task.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prime\\.gradle\\daemon\\9.2.1\\com.example.shreetaskmanager.app-debug-43:\\drawable_ic_more_vert.xml.flat",
+        "source": "C:\\Users\\Prime\\.gradle\\daemon\\9.2.1\\com.example.shreetaskmanager.app-main-45:\\drawable\\ic_more_vert.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prime\\.gradle\\daemon\\9.2.1\\com.example.shreetaskmanager.app-debug-43:\\anim_item_fade_in.xml.flat",
+        "source": "C:\\Users\\Prime\\.gradle\\daemon\\9.2.1\\com.example.shreetaskmanager.app-main-45:\\anim\\item_fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prime\\.gradle\\daemon\\9.2.1\\com.example.shreetaskmanager.app-debug-43:\\drawable_ic_more.xml.flat",
+        "source": "C:\\Users\\Prime\\.gradle\\daemon\\9.2.1\\com.example.shreetaskmanager.app-main-45:\\drawable\\ic_more.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prime\\.gradle\\daemon\\9.2.1\\com.example.shreetaskmanager.app-debug-43:\\drawable_ic_anniversary.xml.flat",
+        "source": "C:\\Users\\Prime\\.gradle\\daemon\\9.2.1\\com.example.shreetaskmanager.app-main-45:\\drawable\\ic_anniversary.xml"
+    },
+    {
+        "merged": "com.example.shreetaskmanager.app-debug-43:/layout_activity_home.xml.flat",
+        "source": "com.example.shreetaskmanager.app-main-45:/layout/activity_home.xml"
+    },
+    {
+        "merged": "com.example.shreetaskmanager.app-debug-43:/layout_item_expense.xml.flat",
+        "source": "com.example.shreetaskmanager.app-main-45:/layout/item_expense.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prime\\.gradle\\daemon\\9.2.1\\com.example.shreetaskmanager.app-debug-43:\\layout_activity_task_action.xml.flat",
+        "source": "C:\\Users\\Prime\\.gradle\\daemon\\9.2.1\\com.example.shreetaskmanager.app-main-45:\\layout\\activity_task_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prime\\.gradle\\daemon\\9.2.1\\com.example.shreetaskmanager.app-debug-43:\\drawable_ic_birthday.xml.flat",
+        "source": "C:\\Users\\Prime\\.gradle\\daemon\\9.2.1\\com.example.shreetaskmanager.app-main-45:\\drawable\\ic_birthday.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prime\\.gradle\\daemon\\9.2.1\\com.example.shreetaskmanager.app-debug-43:\\drawable_bg_date_selected.xml.flat",
+        "source": "C:\\Users\\Prime\\.gradle\\daemon\\9.2.1\\com.example.shreetaskmanager.app-main-45:\\drawable\\bg_date_selected.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prime\\.gradle\\daemon\\9.2.1\\com.example.shreetaskmanager.app-debug-43:\\drawable_ic_nav_tasks.xml.flat",
+        "source": "C:\\Users\\Prime\\.gradle\\daemon\\9.2.1\\com.example.shreetaskmanager.app-main-45:\\drawable\\ic_nav_tasks.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prime\\.gradle\\daemon\\9.2.1\\com.example.shreetaskmanager.app-debug-43:\\layout_item_expense.xml.flat",
+        "source": "C:\\Users\\Prime\\.gradle\\daemon\\9.2.1\\com.example.shreetaskmanager.app-main-45:\\layout\\item_expense.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prime\\.gradle\\daemon\\9.2.1\\com.example.shreetaskmanager.app-debug-43:\\drawable_ic_personal.xml.flat",
+        "source": "C:\\Users\\Prime\\.gradle\\daemon\\9.2.1\\com.example.shreetaskmanager.app-main-45:\\drawable\\ic_personal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prime\\.gradle\\daemon\\9.2.1\\com.example.shreetaskmanager.app-debug-43:\\drawable_bg_avatar_group.xml.flat",
+        "source": "C:\\Users\\Prime\\.gradle\\daemon\\9.2.1\\com.example.shreetaskmanager.app-main-45:\\drawable\\bg_avatar_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prime\\.gradle\\daemon\\9.2.1\\com.example.shreetaskmanager.app-debug-43:\\drawable_app_logo_background.xml.flat",
+        "source": "C:\\Users\\Prime\\.gradle\\daemon\\9.2.1\\com.example.shreetaskmanager.app-main-45:\\drawable\\app_logo_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prime\\.gradle\\daemon\\9.2.1\\com.example.shreetaskmanager.app-debug-43:\\menu_bottom_nav_menu.xml.flat",
+        "source": "C:\\Users\\Prime\\.gradle\\daemon\\9.2.1\\com.example.shreetaskmanager.app-main-45:\\menu\\bottom_nav_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prime\\.gradle\\daemon\\9.2.1\\com.example.shreetaskmanager.app-debug-43:\\layout_item_task.xml.flat",
+        "source": "C:\\Users\\Prime\\.gradle\\daemon\\9.2.1\\com.example.shreetaskmanager.app-main-45:\\layout\\item_task.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prime\\.gradle\\daemon\\9.2.1\\com.example.shreetaskmanager.app-debug-43:\\drawable_ic_nav_analysis.xml.flat",
+        "source": "C:\\Users\\Prime\\.gradle\\daemon\\9.2.1\\com.example.shreetaskmanager.app-main-45:\\drawable\\ic_nav_analysis.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prime\\.gradle\\daemon\\9.2.1\\com.example.shreetaskmanager.app-debug-43:\\drawable_ic_nav_calendar.xml.flat",
+        "source": "C:\\Users\\Prime\\.gradle\\daemon\\9.2.1\\com.example.shreetaskmanager.app-main-45:\\drawable\\ic_nav_calendar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prime\\.gradle\\daemon\\9.2.1\\com.example.shreetaskmanager.app-debug-43:\\drawable_ic_grocery.xml.flat",
+        "source": "C:\\Users\\Prime\\.gradle\\daemon\\9.2.1\\com.example.shreetaskmanager.app-main-45:\\drawable\\ic_grocery.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prime\\.gradle\\daemon\\9.2.1\\com.example.shreetaskmanager.app-debug-43:\\drawable_app_logo_foreground.xml.flat",
+        "source": "C:\\Users\\Prime\\.gradle\\daemon\\9.2.1\\com.example.shreetaskmanager.app-main-45:\\drawable\\app_logo_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prime\\.gradle\\daemon\\9.2.1\\com.example.shreetaskmanager.app-debug-43:\\drawable_custom_progress_bar.xml.flat",
+        "source": "C:\\Users\\Prime\\.gradle\\daemon\\9.2.1\\com.example.shreetaskmanager.app-main-45:\\drawable\\custom_progress_bar.xml"
+    },
+    {
+        "merged": "com.example.shreetaskmanager.app-debug-43:/layout_activity_main.xml.flat",
+        "source": "com.example.shreetaskmanager.app-main-45:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prime\\.gradle\\daemon\\9.2.1\\com.example.shreetaskmanager.app-debug-43:\\drawable_dash_line_vertical.xml.flat",
+        "source": "C:\\Users\\Prime\\.gradle\\daemon\\9.2.1\\com.example.shreetaskmanager.app-main-45:\\drawable\\dash_line_vertical.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prime\\.gradle\\daemon\\9.2.1\\com.example.shreetaskmanager.app-debug-43:\\drawable_ic_back.xml.flat",
+        "source": "C:\\Users\\Prime\\.gradle\\daemon\\9.2.1\\com.example.shreetaskmanager.app-main-45:\\drawable\\ic_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prime\\.gradle\\daemon\\9.2.1\\com.example.shreetaskmanager.app-debug-43:\\drawable_bg_task_card_blue.xml.flat",
+        "source": "C:\\Users\\Prime\\.gradle\\daemon\\9.2.1\\com.example.shreetaskmanager.app-main-45:\\drawable\\bg_task_card_blue.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prime\\.gradle\\daemon\\9.2.1\\com.example.shreetaskmanager.app-debug-43:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Prime\\.gradle\\daemon\\9.2.1\\com.example.shreetaskmanager.app-main-45:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prime\\.gradle\\daemon\\9.2.1\\com.example.shreetaskmanager.app-debug-43:\\drawable_bg_task_card_purple.xml.flat",
+        "source": "C:\\Users\\Prime\\.gradle\\daemon\\9.2.1\\com.example.shreetaskmanager.app-main-45:\\drawable\\bg_task_card_purple.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prime\\.gradle\\daemon\\9.2.1\\com.example.shreetaskmanager.app-debug-43:\\drawable_ic_meeting.xml.flat",
+        "source": "C:\\Users\\Prime\\.gradle\\daemon\\9.2.1\\com.example.shreetaskmanager.app-main-45:\\drawable\\ic_meeting.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prime\\.gradle\\daemon\\9.2.1\\com.example.shreetaskmanager.app-debug-43:\\drawable_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Prime\\.gradle\\daemon\\9.2.1\\com.example.shreetaskmanager.app-main-45:\\drawable\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prime\\.gradle\\daemon\\9.2.1\\com.example.shreetaskmanager.app-debug-43:\\drawable_bg_date_unselected.xml.flat",
+        "source": "C:\\Users\\Prime\\.gradle\\daemon\\9.2.1\\com.example.shreetaskmanager.app-main-45:\\drawable\\bg_date_unselected.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prime\\.gradle\\daemon\\9.2.1\\com.example.shreetaskmanager.app-debug-43:\\drawable_ic_call.xml.flat",
+        "source": "C:\\Users\\Prime\\.gradle\\daemon\\9.2.1\\com.example.shreetaskmanager.app-main-45:\\drawable\\ic_call.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prime\\.gradle\\daemon\\9.2.1\\com.example.shreetaskmanager.app-debug-43:\\drawable_ic_dropdown.xml.flat",
+        "source": "C:\\Users\\Prime\\.gradle\\daemon\\9.2.1\\com.example.shreetaskmanager.app-main-45:\\drawable\\ic_dropdown.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prime\\.gradle\\daemon\\9.2.1\\com.example.shreetaskmanager.app-debug-43:\\drawable_bg_rounded_top.xml.flat",
+        "source": "C:\\Users\\Prime\\.gradle\\daemon\\9.2.1\\com.example.shreetaskmanager.app-main-45:\\drawable\\bg_rounded_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prime\\.gradle\\daemon\\9.2.1\\com.example.shreetaskmanager.app-debug-43:\\drawable_ic_study.xml.flat",
+        "source": "C:\\Users\\Prime\\.gradle\\daemon\\9.2.1\\com.example.shreetaskmanager.app-main-45:\\drawable\\ic_study.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prime\\.gradle\\daemon\\9.2.1\\com.example.shreetaskmanager.app-debug-43:\\layout_activity_all_tasks.xml.flat",
+        "source": "C:\\Users\\Prime\\.gradle\\daemon\\9.2.1\\com.example.shreetaskmanager.app-main-45:\\layout\\activity_all_tasks.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prime\\.gradle\\daemon\\9.2.1\\com.example.shreetaskmanager.app-debug-43:\\drawable_bg_diamond.xml.flat",
+        "source": "C:\\Users\\Prime\\.gradle\\daemon\\9.2.1\\com.example.shreetaskmanager.app-main-45:\\drawable\\bg_diamond.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prime\\.gradle\\daemon\\9.2.1\\com.example.shreetaskmanager.app-debug-43:\\layout_activity_home.xml.flat",
+        "source": "C:\\Users\\Prime\\.gradle\\daemon\\9.2.1\\com.example.shreetaskmanager.app-main-45:\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prime\\.gradle\\daemon\\9.2.1\\com.example.shreetaskmanager.app-debug-43:\\layout_item_date.xml.flat",
+        "source": "C:\\Users\\Prime\\.gradle\\daemon\\9.2.1\\com.example.shreetaskmanager.app-main-45:\\layout\\item_date.xml"
+    },
+    {
+        "merged": "C:\\Users\\Prime\\.gradle\\daemon\\9.2.1\\com.example.shreetaskmanager.app-debug-43:\\drawable_ic_nav_home.xml.flat",
+        "source": "C:\\Users\\Prime\\.gradle\\daemon\\9.2.1\\com.example.shreetaskmanager.app-main-45:\\drawable\\ic_nav_home.xml"
+    }
+]

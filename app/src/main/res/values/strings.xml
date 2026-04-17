@@ -32,4 +32,10 @@
     <string name="reminder_header">Reminders</string>
     <string name="use_alarm_title">Use Alarm for Tasks</string>
     <string name="use_alarm_desc">Ring an alarm sound when a task starts.</string>
+
+    <string name="about_header">About</string>
+    <string name="about_app_desc">Shree Task Manager is a comprehensive productivity tool that combines advanced task management with automated financial tracking via SMS and Email alerts.</string>
+    <string name="about_version">Version 1.0.0</string>
+    <string name="about_developer">Developed by Your Name</string>
+    <string name="about_title">About Shree Task Manager</string>
 </resources>

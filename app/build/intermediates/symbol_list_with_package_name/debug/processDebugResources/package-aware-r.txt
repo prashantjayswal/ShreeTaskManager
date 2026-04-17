@@ -1535,10 +1535,12 @@ color button_material_dark
 color button_material_light
 color call_notification_answer_color
 color call_notification_decline_color
+color card_amber
 color card_blue
 color card_dark
 color card_green
 color card_purple
+color card_rose
 color cardview_dark_background
 color cardview_light_background
 color cardview_shadow_end_color
@@ -1596,6 +1598,8 @@ color dim_foreground_disabled_material_dark
 color dim_foreground_disabled_material_light
 color dim_foreground_material_dark
 color dim_foreground_material_light
+color dividerColor
+color errorColor
 color error_color_material_dark
 color error_color_material_light
 color foreground_material_dark
@@ -2427,6 +2431,7 @@ color mtrl_textinput_disabled_color
 color mtrl_textinput_filled_box_default_background_color
 color mtrl_textinput_focused_box_stroke_color
 color mtrl_textinput_hovered_box_stroke_color
+color navBackground
 color notification_action_color_filter
 color notification_icon_bg_color
 color primaryColor
@@ -2445,6 +2450,8 @@ color secondary_text_default_material_dark
 color secondary_text_default_material_light
 color secondary_text_disabled_material_dark
 color secondary_text_disabled_material_light
+color successColor
+color surfaceColor
 color switch_thumb_disabled_material_dark
 color switch_thumb_disabled_material_light
 color switch_thumb_material_dark
@@ -2452,6 +2459,7 @@ color switch_thumb_material_light
 color switch_thumb_normal_material_dark
 color switch_thumb_normal_material_light
 color textColor
+color textDisabled
 color textSecondary
 color tooltip_background_dark
 color tooltip_background_light
@@ -3651,6 +3659,7 @@ drawable ic_mtrl_chip_close_circle
 drawable ic_nav_analysis
 drawable ic_nav_calendar
 drawable ic_nav_home
+drawable ic_nav_settings
 drawable ic_nav_tasks
 drawable ic_personal
 drawable ic_search_black_24
@@ -4095,6 +4104,7 @@ id multiply
 id nav_analysis
 id nav_calendar
 id nav_home
+id nav_settings
 id nav_tasks
 id navigation_bar_item_active_indicator_view
 id navigation_bar_item_content_container
@@ -4593,6 +4603,11 @@ string abc_searchview_description_voice
 string abc_shareactionprovider_share_with
 string abc_shareactionprovider_share_with_application
 string abc_toolbar_collapse_description
+string about_app_desc
+string about_developer
+string about_header
+string about_title
+string about_version
 string androidx_startup
 string app_lock_desc
 string app_lock_title

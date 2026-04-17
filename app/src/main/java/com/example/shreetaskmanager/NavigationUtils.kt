@@ -35,6 +35,12 @@ object NavigationUtils {
                     activity.finish()
                     true
                 }
+                R.id.nav_settings -> {
+                    activity.startActivity(Intent(activity, SettingsActivity::class.java))
+                    activity.overridePendingTransition(0, 0)
+                    activity.finish()
+                    true
+                }
                 else -> false
             }
         }

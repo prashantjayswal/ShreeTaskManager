@@ -1,17 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="primaryColor">#1a2138</color>
-    <color name="primaryDarkColor">#12182b</color>
-    <color name="accentColor">#c2e094</color>
-    <color name="backgroundColor">#1a2138</color>
-    <color name="textColor">#FFFFFF</color>
+    <!-- Modern Deep Navy / Slate Dark Palette -->
+    <color name="primaryColor">#1E293B</color>
+    <color name="primaryDarkColor">#0F172A</color>
+    <color name="accentColor">#C2E094</color>
+    <color name="backgroundColor">#0F172A</color>
+
+    <!-- Text Colors -->
+    <color name="textColor">#F8FAFC</color>
     <color name="textSecondary">#94A3B8</color>
+    <color name="textDisabled">#475569</color>
 
-    <color name="card_green">#c2e094</color>
-    <color name="card_blue">#4fd0e1</color>
-    <color name="card_purple">#ccb7e3</color>
-    <color name="card_dark">#252d4a</color>
+    <!-- Surface / Card Colors -->
+    <color name="surfaceColor">#1E293B</color>
+    <color name="card_dark">#1E293B</color>
 
+    <!-- Functional Accent Colors (Pastel/Vibrant for Dark Mode) -->
+    <color name="card_green">#C2E094</color>
+    <color name="card_blue">#7DD3FC</color>
+    <color name="card_purple">#D8B4FE</color>
+    <color name="card_rose">#FDA4AF</color>
+    <color name="card_amber">#FCD34D</color>
+
+    <!-- Standard Colors -->
     <color name="white">#FFFFFF</color>
     <color name="black">#000000</color>
+    <color name="errorColor">#F87171</color>
+    <color name="successColor">#4ADE80</color>
+
+    <!-- Navigation / Dividers -->
+    <color name="dividerColor">#334155</color>
+    <color name="navBackground">#0F172A</color>
 </resources>

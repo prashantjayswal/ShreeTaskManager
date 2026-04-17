@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.shreetaskmanager.app-mergeDebugResources-41:/values-v24/values-v24.xml",
+            "outputFile": "com.example.shreetaskmanager.app-mergeDebugResources-42:/values-v24/values-v24.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Prime\\.gradle\\caches\\9.2.1\\transforms\\dc72e114050b2f2052b8d29a16812f7a\\workspace\\transformed\\material-1.13.0\\res\\values-v24\\values-v24.xml",

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.shreetaskmanager.app-mergeDebugResources-41:/values-watch-v20/values-watch-v20.xml",
+            "outputFile": "com.example.shreetaskmanager.app-mergeDebugResources-42:/values-watch-v20/values-watch-v20.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Prime\\.gradle\\caches\\9.2.1\\transforms\\e1d672d5e7249f40a1ae74d20a38e611\\workspace\\transformed\\jetified-play-services-auth-21.5.1\\res\\values-watch-v20\\values.xml",

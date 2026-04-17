@@ -1,6 +1,7 @@
 package com.example.shreetaskmanager
 
 import android.content.Context
+import android.media.RingtoneManager
 import androidx.core.app.NotificationCompat
 import androidx.core.app.NotificationManagerCompat
 import androidx.work.Worker
@@ -20,6 +21,9 @@ class TaskReminderWorker(context: Context, params: WorkerParameters) : Worker(co
     }
 
     private fun showNotification(id: Long, title: String, message: String) {
+        val sharedPref = applicationContext.getSharedPreferences("app_settings", Context.MODE_PRIVATE)
+        val alarmEnabled = sharedPref.getBoolean("alarm_enabled", false)
+
         val builder = NotificationCompat.Builder(applicationContext, "default")
             .setSmallIcon(R.drawable.ic_task)
             .setContentTitle(title)
@@ -27,14 +31,21 @@ class TaskReminderWorker(context: Context, params: WorkerParameters) : Worker(co
             .setPriority(NotificationCompat.PRIORITY_HIGH)
             .setAutoCancel(true)
 
+        if (alarmEnabled) {
+            val alarmSound = RingtoneManager.getDefaultUri(RingtoneManager.TYPE_ALARM) 
+                ?: RingtoneManager.getDefaultUri(RingtoneManager.TYPE_RINGTONE)
+            builder.setSound(alarmSound)
+            // For older Android or when channel doesn't force sound
+            builder.setDefaults(NotificationCompat.DEFAULT_VIBRATE)
+        }
+
         try {
-            // Use a combination of taskId and message hash to avoid overwriting if both show up
             val notificationId = (id.toInt() * 31) + message.hashCode()
             with(NotificationManagerCompat.from(applicationContext)) {
                 notify(notificationId, builder.build())
             }
         } catch (e: SecurityException) {
-            // Log error or handle missing permission
+            // Permission missing
         }
     }
 }
